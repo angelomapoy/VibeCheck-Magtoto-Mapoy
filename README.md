@@ -1,6 +1,3 @@
-Here is the **READY-TO-COPY `README.md` code** exactly as requested 👇
-(you can paste this directly into `README.md`)
-
 ```md
 # 🚦 VibeCheck 411L
 
