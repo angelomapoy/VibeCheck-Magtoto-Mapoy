@@ -137,14 +137,3 @@ Feel free to explore and modify for learning.
 ✨ *No bad vibes. Only clean commits.*
 
 ```
-
----
-
-If you want next:
-- 📸 README with screenshots
-- 🧾 Shorter README (rubric-friendly)
-- 🔁 Commit + PR message for README
-- 🧠 Oral defense explanation
-
-Just tell me 👍
-```
