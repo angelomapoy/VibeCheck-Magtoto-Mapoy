@@ -1,4 +1,3 @@
-```md
 # 🚦 VibeCheck 411L
 
 A lightweight **Node.js + Express** web application that delivers
@@ -31,7 +30,6 @@ The project focuses on **clarity, simplicity, and proper Git workflow**.
 ## 📂 Project Structure
 
 ```
-
 VibeCheck-Magtoto-Mapoy/
 │
 ├── backend/
@@ -43,8 +41,7 @@ VibeCheck-Magtoto-Mapoy/
 │   └── app.js
 │
 └── README.md
-
-````
+```
 
 ---
 
@@ -53,47 +50,44 @@ VibeCheck-Magtoto-Mapoy/
 ### 1️⃣ Install dependencies
 ```bash
 npm install
-````
+```
 
 ### 2️⃣ Start the backend server
-
 ```bash
 node server.js
 ```
 
 Server will run at:
-
 ```
 http://localhost:3000
 ```
 
 ### 3️⃣ Open the frontend
-
-Open `index.html` in your browser
+Open `index.html` in your browser  
 (or use Live Server if available)
 
 ---
 
 ## 🔌 API Endpoints
 
-| Method | Endpoint                                | Description                |
-| ------ | --------------------------------------- | -------------------------- |
-| GET    | `/api/fortune`                          | Returns a random fortune   |
-| GET    | `/api/joke`                             | Returns a programming joke |
-| GET    | `/api/vibe?mood=happy\|tired\|stressed` | Returns mood response      |
-| POST   | `/api/smash`                            | Increments smash counter   |
-| GET    | `/api/smashes`                          | Returns smash count        |
-| GET    | `/api/secret?code=411L`                 | Unlocks secret message     |
+| Method | Endpoint | Description |
+|------|---------|------------|
+| GET | `/api/fortune` | Returns a random fortune |
+| GET | `/api/joke` | Returns a programming joke |
+| GET | `/api/vibe?mood=happy\|tired\|stressed` | Returns mood response |
+| POST | `/api/smash` | Increments smash counter |
+| GET | `/api/smashes` | Returns smash count |
+| GET | `/api/secret?code=411L` | Unlocks secret message |
 
 ---
 
 ## 🎨 Frontend Features
 
-* App-style centered layout
-* Responsive button grid
-* Console-style output display
-* Dynamic content using `fetch()`
-* User-friendly feedback and animations
+- App-style centered layout
+- Responsive button grid
+- Console-style output display
+- Dynamic content using `fetch()`
+- User-friendly feedback and animations
 
 ---
 
@@ -112,8 +106,8 @@ Open `index.html` in your browser
 
 ## 👨‍💻 Authors
 
-* **Magtoto**
-* **Mapoy**
+- **Magtoto**
+- **Mapoy**
 
 *CPE 411L — Computer Engineering*
 
@@ -128,12 +122,11 @@ Feel free to explore and modify for learning.
 
 ## 💡 Notes
 
-* No database is used (in-memory data only)
-* Designed for clarity and demonstration
-* Follows proper Git branching and pull request workflow
+- No database is used (in-memory data only)
+- Designed for clarity and demonstration
+- Follows proper Git branching and pull request workflow
 
 ---
 
 ✨ *No bad vibes. Only clean commits.*
 
-```
